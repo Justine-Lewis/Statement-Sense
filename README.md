@@ -12,4 +12,11 @@ to recommend which ones to pause or cancel, suggest better alternatives, and ide
   - Monthly Charge (JMD)
   - User Priority
   - Duration of Months
+
+
+
+ #First Attempt Report: 
+<img width="1920" height="1080" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/c02ed534-ef98-40b2-82c0-947583814c35" />
+
+ 
     
